@@ -1,0 +1,19 @@
+.exemplos-pipes {
+    display: none;
+}
+
+.puro-impuro {
+    display: none;
+}
+
+.pipe-async {
+    display: block;
+}
+
+input {
+    display: block;
+}
+
+button {
+    display: block;
+}
